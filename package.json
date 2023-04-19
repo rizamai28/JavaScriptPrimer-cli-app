@@ -1,0 +1,28 @@
+{
+  "name": "Node.js-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizanotes6/JavaScriptPrimer-cli-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizanotes6/JavaScriptPrimer-cli-app/issues"
+  },
+  "homepage": "https://github.com/rizanotes6/JavaScriptPrimer-cli-app#readme",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "marked": "^4.0.19"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
